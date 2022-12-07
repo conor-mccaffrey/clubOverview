@@ -22,7 +22,7 @@ application.py (re-hash of Andrews lecture slide updated for my project)
 votedao.py (our operations are performed here)
 dbconfig.py (our details)
 
-#### Static Folder
+#### Static Folder:
 Images (Self-explanatory)
 HTML docs (for decorating and adding some funcitonality to our website)
 
